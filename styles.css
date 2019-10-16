@@ -1,0 +1,25 @@
+body {
+    background: url(./img/tmg-facebook_social.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h2 {
+    color: #ffffff;
+    text-align: center;
+    font-family: monospace;
+}
+
+h5 {
+    color: #62f5dc;
+    font-family: monospace;
+}
+
+div.question-answer {
+    padding-top: 10%;
+    padding-left: 6%;
+    font-size: 20px;
+    color: #fff;
+}
